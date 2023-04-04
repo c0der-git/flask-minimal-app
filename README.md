@@ -3,6 +3,6 @@ Flask minimal app tutorial implementation from https://flask.palletsprojects.com
 
 CHANGES LOG
 2023-04-05 
-* Env. variables load is not working both from .flaskenv and .env
+* Env. variables load is not working both from .flaskenv
 * Views separated to "view" blueprint
 * Templates and Static are not used yet
